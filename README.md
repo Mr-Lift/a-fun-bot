@@ -1,2 +1,1 @@
-# a-fun-bot
-a fun bot for discord
+a bot comming soon™️
